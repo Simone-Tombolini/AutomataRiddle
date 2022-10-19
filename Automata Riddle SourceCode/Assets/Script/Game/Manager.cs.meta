@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 040af4c289875f843b4752604422bd7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startState: {instanceID: 0}
+  - stateCounter: {instanceID: 0}
+  - archCounter: {instanceID: 0}
+  - truecheckbox: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+  - falsecheckbox: {instanceID: 0}
+  - checkboxstate: {instanceID: 0}
+  - startButton: {instanceID: 0}
+  - finlaButton: {instanceID: 0}
+  - qStateButton: {instanceID: 0}
+  - archButton: {instanceID: 0}
+  - consumeButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

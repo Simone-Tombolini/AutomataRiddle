@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawn
+  - CardIndicator
+  - state
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 977160973
+    locked: 0
+  - name: UIButtons
+    uniqueID: 4108254189
+    locked: 0
+  - name: Game
+    uniqueID: 2006028143
+    locked: 0
+  - name: BlockPanel
+    uniqueID: 2661796301
+    locked: 0
+  - name: UI
+    uniqueID: 729392843
+    locked: 0
+  - name: Tutorial
+    uniqueID: 1841094441
+    locked: 0
+  - name: Loader
+    uniqueID: 447664565
+    locked: 0
