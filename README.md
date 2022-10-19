@@ -1,5 +1,14 @@
 # AutomataRiddle
 
+### Eng
+This is a small video-game developed with unity and published for android on the google play store, you can find it at this URL.
+His aim is to teach the theory of finite-state machine in all new ways.
+
+This is a personal project that I have used over time to learn the basic functionalities of C # and unity, so the comments were almost like school notes with which I used to learning, so before publishing it they were almost in their entirety removed, and they will remain private.
+This code is not and will never be supported again, and is not representative of my current capabilities.
+It contains many errors that I have corrected in later projects, this repository is archive only.
+
+### Ita
 Questo è un piccolo gioco sviluppato con unity e pubblicato per android sul google play store a questo indirizzo.
 Il suo scopo è di insegare in maniere divertente la toria degli atuomi a stati finiti e creare enigmi interessanti.
 
