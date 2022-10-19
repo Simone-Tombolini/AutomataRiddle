@@ -1,5 +1,5 @@
 # AutomataRiddle
-Learning projects
+Personal learning project
 
 ### Eng
 This is a small video-game developed with unity and published for android on the google play store, you can find it at this URL.
