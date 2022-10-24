@@ -1,6 +1,8 @@
 # AutomataRiddle
 Personal learning project
 
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.SimoneTombolini.AutomataRiddle)
+
 ### Eng
 This is a small video-game developed with unity and published for android on the google play store, you can find it at this URL.
 His aim is to teach the theory of finite-state machine in all new ways.
